@@ -24,6 +24,8 @@ import kotlin.concurrent.thread
  *
  * 二、Android Service练习
  *
+ *
+ *
  * @constructor
  */
 class MainActivity : AppCompatActivity() {
